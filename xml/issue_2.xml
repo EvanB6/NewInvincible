@@ -1,0 +1,636 @@
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata>
+        <title>Invincible</title>
+        <creator>Robert Kirkman</creator>
+        <publisher>Image Comics</publisher>
+        <date>2003</date>
+        <language>English</language>
+        <issue n="2">2</issue>
+        <link>22 pages</link>
+    </metadata>
+
+    <comic>
+        <page n="1">
+            <panel p="1">
+                <dialogue speaker="Omniman">
+                    Okay son, you may have noticed by now that I'm not like normal dads. I've... 
+                    <bold>avoided</bold> the subject for far too many years, and your mother and I have decided that it's time you knew the truth.
+                    We think you're old enough for me to tell you where I <bold>really</bold> come from.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="2">
+            <panel p="1">
+                <dialogue speaker="Omniman">
+                    Millions of miles from here, out in deep space, is the planet Viltrum, a cool blue oasis alone in a solar system much like our own.
+                    I was born on this planet
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Omniman">
+                    Its people are not completely unlike humans, although, they and I, have abilities in addition to what humans have. We can fly, move at super-speed, and possess great strength... by human standards.
+                    Viltrum was a planet that had achieved a perfect global society. There was no illness, no murder, no war, it was a relative utopia.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Omniman">
+                    With no conflict at hand, our high council refused to let our society become complacent.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Omniman">
+                    Council memebers argued that rather than revel in our newfound perfection, we should take it upon ourselves to ensure that other races, lesser developed than our own, should be allowed to develop to our level of advancement.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Omniman">
+                    It was agreed upon unanimously.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="3">
+            <panel p="1">
+                <dialogue speaker="Omniman">
+                    Shortly after the high council had approved the idea, the world betterment committee was formed.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Omniman">
+                    The first step of the initiative was to locate other plaets that were in a cruical stage of development...
+                    ... Planets that were far enough along that the possibility of greatness was there, but were not so far along that their outcome was already decided.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Omniman">
+                    The second step was to install global defense systems to protect the planet from spaceborne menaces, both natural and unnatural, that might prevent the survival of the civilization.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Omniman">
+                    The final step was to send a team of scientists down to the planet's surface to assist in the advancement of the civilization's technologies.
+                    This team would stay behind on the planet, monitoring its progress.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="4">
+            <panel p="1">
+                <dialogue speaker="Omniman">
+                    Word traveled around our planet about how much food the world betterment committee was doing. Soon, it was the most popular profession on Viltrum.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Omniman">
+                    Of course, when I came of age, I signed up for duty. I was on the search committee; my job was to locate and suggest planets that might be eligible for our interference.
+                    By then, the operation had been expanded and perfected. I was stationed on a mobile base that traveled from planet to planet as we discovered them.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Omniman">
+                    I was in my third year of service when I discovered Earth. I convinced the committee to do a physical inspection of the planet.
+                    During the long journey to Earth, I used our long range sensors to study the planet and the civilization that lived there.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Omniman">
+                    By the time we arrived, I had grown fond of Earth and the people on it. Iwas fascinated by the achievements that had accomplished in such a short time.
+                    I pleaded for authorization to add Earth to our betterment schedule, but it was deemed too crude and not developed enough for our interference.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Omniman">
+                    I refused to give up, and offered an alternative solution. I volunteered to relocate to Earth, and be its sole protector, dedicated to the survival of its civilization.
+                    Due to Earth's location in such a remote area of the universe, I was warned that there might not be any chance of returning.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Omniman">
+                    I went anyway.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="5">
+            <panel p="1">
+                <dialogue speaker="Omniman">
+                    No amount of research could have prepared me for what I would experience upon my arrival.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Omniman">
+                    Earth was a vibrant nest of individuality. I marveled at the people I saw as they scurried about their daily lives.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Omniman">
+                    It was there, anound the people, that I instantly knew I had made the right choice.
+                    I might have even forgotten what my mission on Earth was...
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Omniman">
+                    ...Had I not been so abruptly reminded.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Omniman">
+                    With my mission clearly at hand, I went to work.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Omniman">
+                    The people of Earth needed someone to keep them safe...
+                </dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Omniman">
+                    ...And I was here to protect them.
+                </dialogue>
+            </panel>
+            <panel p="8">
+                <dialogue speaker="Omniman">
+                    It was less than a year before I met your mother... but that's a story for another time.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="6">
+            <panel p="1">
+                <dialogue speaker="Omniman">
+                    I know this a lot to take in at one time, but you're old enough to know the truth. And unfortunately... I'm not dont yet. On top of all this... there's more.
+                    You see, you're getting older, son...
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Omniman">
+                    ...Things are going to start to change for you in a few years as you hit puberty.
+                    You're going to start to get acne.
+                    Your voice will start to crack and eventually change.
+                    You'll begin to grow hair in strange and new places.
+                    You're goig to start looking at girls in a whole new light.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Omniman">
+                    There's a good chance that you're going to start to develop super powers.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="7">
+            <panel p="1">
+                <dialogue speaker="Omniman">
+                    Super-strength, super-speed, flight... the whole bit.
+                    All the powers <bold>I</bold> have.
+                    ...
+                    Mark? Do you understand?
+                </dialogue>
+            </panel>
+            <panel p="2"/>
+            <panel p="3"/>
+            <panel p="4">
+                <dialogue speaker="Mark">...</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">
+                    Wow.
+                    Im going to be able to fly?!
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="8">
+            <panel p="1">
+                <dialogue speaker="Mark">
+                    Yeah...
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">
+                    I can fly...
+                </dialogue>
+            </panel>
+            <panel p="3"/>
+            <panel p="4">
+                <dialogue speaker="Mark">*sigh*</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">Screw this.</dialogue>
+            </panel>
+        </page>
+
+        <page n="9">
+            <panel p="1">
+                <dialogue speaker="Mark">
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">
+                    What the--?!
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="10">
+            <panel p="1">
+                <dialogue speaker="Mark">Is he stealing...<bold> game boxes?</bold></dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="MaulerBrother">Eh?</dialogue>
+            </panel>
+        </page>
+
+        <page n="11">
+            <panel p="1">
+                <dialogue speaker="MaulerBrother">
+                    Back off!
+                </dialogue>
+            </panel>
+            <panel p="2"/>
+            <panel p="3">
+                <dialogue speaker="MaulerBrother">
+                    Aren't you out a little past you betime, young man?
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">
+                    Actually...yeah.
+                </dialogue>
+            </panel>
+            <panel p="5"/>
+            <panel p="6"/>
+        </page>
+
+        <page n="12">
+            <panel p="1">
+                <dialogue speaker="Rex">
+                    That was a BB, you dont want to see what I can do with a golf ball.
+                    Now.
+                    Who started it?
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="13">
+            <panel p="1">
+                <dialogue speaker="MaulerBrother">
+                    I'll give you one guess.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="SoundEffect">Skra-BOOM!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Robot">
+                    Way to go, Rex. We <bold>had</bold> the element of surprise.
+                </dialogue>
+                <dialogue speaker="Rex">
+                    Sorry, 'Bot. It seemed like a good idea at the time.
+                </dialogue>
+                <dialogue speaker="Robot">
+                    Well, try to leave the good ideas up to me.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Robot">
+                    And, um...
+                    ...We're going to need one real soon.
+                </dialogue>
+            </panel>
+            <panel p="5"/>
+            <panel p="6">
+                <dialogue speaker="MaulerBrother">
+                    You got that right!
+                </dialogue>
+            </panel>
+            <panel p="7">Krok!</panel>
+        </page>
+
+        <page n="14">
+            <panel p="1">
+                <dialogue speaker="Robot">
+                    Wow.
+                    Never mind. Nice job, kid.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Robot">
+                    I'll have another vehicle sent to us by remote. Kate, pull our friend, Mauler out of the way so we won't attract too much attention.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="AtomEve">
+                    Nice costume, man
+                </dialogue>
+                <dialogue speaker="Mark">
+                    Sorry, there wasn;t a phone booth handy.
+                    Um...Do I know you?
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="AtomEve">
+                    You know... You <bold>do</bold> look familiar...
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Robot">
+                    Well, our ride's here, but I can see that a brief introduction is needed before we depart.
+                    We're the teen team. I'm <bold>Robot.</bold>
+                    You've met <bold> Atom Eve.</bold>
+                    That's <bold> Rex Splode.</bold>
+                    With <bold>Dupli-Kate</bold> rounding out the team.
+                    And you?
+                </dialogue>
+                <dialogue speaker="Mark">
+                    I'm M-- I mean, Invincible.
+                </dialogue>
+                <dialogue speaker="Robot">
+                    <bold> Cute.</bold>
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">
+                    Nice to meet you.
+                </dialogue>
+                <dialogue speaker="AtomEve">
+                    See you around
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="15">
+            <panel p="1">
+                <dialogue speaker="Mark">
+                    Hah!
+                    I knew it.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="AtomEve">
+                    Hey, it's <bold>YOU!</bold> We've been in biology together all this time...
+                    Mark, right?
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">
+                    Yeah. Um, is there any way you can keep this to yourself? You never know when one of your teammates is going to crazy and become the next big villain.
+                </dialogue>
+                <dialogue speaker="AtomEve">
+                    Oh, that only happens in comic books.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">
+                    It's always better to play it sa--
+                    *Yawn*
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">
+                    Sorry about all that... I'm not used to these late nights...
+                    *I'm still new to this... I just hit two months.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="AtomEve">
+                    You'll get the hang of it. Teen superheroes sart drinking coffee at an early age.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="16">
+            <panel p="1">
+                <dialogue speaker="AtomEve">
+                    Listen, we're following up on the incident from last night today. You're welcome to tage along if you'd like.
+                </dialogue>
+                <dialogue speaker="Mark">
+                    Id'love to.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">
+                    Why are we going out here? Do you take the bus to your team's secret base?
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="AtomEve">
+                    Are you kidding me? I can fly!
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="AtomEve">
+                    C'mon. We can change back there.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">
+                    So... you come here often?
+                </dialogue>
+                <dialogue speaker="AtomEve">
+                    Every day.
+                </dialogue>
+                <dialogue speaker="Mark">
+                    Nice place.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="AtomEve">
+                    Do you know of any other secluded placse around here?
+                    Wow. That was quick.
+                </dialogue>
+                <dialogue speaker="Mark">
+                    Thanks.
+                    I guess notm but now that we're in costume... how do we get out of here without being spotted?
+                </dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="AtomEve">
+                    You'd be surprised how rarely people ever look up.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="17">
+            <panel p="1">
+                <dialogue speaker="Mark"/>
+                <dialogue speaker="Robot">
+                    <bold> You're late.</bold> I'll assume that's our new friend from last night with you...
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Robot">
+                    Good. Oh, and he's wearing a much nicer costume. Kate and rex are out on another mission, he'll be good use tonight.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Robot">
+                    Speaking of which, if you had gotten here three minutes later I would have had to do this alone.
+                    C'mon.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Robot">
+                    I erased mauler's memories from last night, and left him close to the toy store he robbed. He'll be disoriented and will more than likely seek out familiar ground.
+                    My hypothesis is that he will lead us to his base and we'll be able to figure out what his plans for the video game systems were.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Robot">
+                    I've been tracking him from here, but we need to be on site when he arrives.
+                    I was afraid I was going to have to leave without you.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">
+                    Sorry about that.
+                </dialogue>
+                <dialogue speaker="Robot">
+                    Don't worry about it... I'm not even sure I'll need you.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="18">
+            <panel p="1">
+                <dialogue speaker="Robot">
+                    There he is.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="MaulerBrother">
+                    ...
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="MaulerBrother">
+                    Where have you been? We need those processors! We're not going to have enough to power the robots without that ned shipment.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="MaulerBrother">
+                    I don't know what happened. All last night is a blur. I remember going out to get the new shipment at the Toys B' We... and then... nothing.
+                    So I came back.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="MaulerBrother">
+                    I don't think you realize how important our work here is. We badly need those extra processors. That shipment is already in stock by now, and they wont't be receiving another for nearly a month.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="MaulerBrother">
+                    I'm not sure our plans can wait that long.
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="19">
+            <panel p="1">
+                <dialogue speaker="Unknown">
+                    I think we've heard enough.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Robot">
+                    Keep the other one from activating the robots, I'll deal with this one!
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="MaulerBrother">
+                    What makes you think we need the robots to defeat you?
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="AtomEve">
+                    Let go!
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="20">
+            <panel p="1">
+                <dialogue speaker="MaulerBrother">
+                    I don't know what you hope to accomplish here. You're obviously in over your head!
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Robot">
+                    You're obviously not paying attention.
+                </dialogue>
+            </panel>
+            <panel p="3"/>
+            <panel p="4">
+                <dialogue speaker="MaulerBrother">
+                    It...will..take more...than...
+                    ...
+                    That...
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Robot">
+                    I'll see what I can do.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Robot">
+                    Thanks for the help, Invincible!
+                    You seem to be a pretty useful guy. Think you might be interested in staying with us?
+                </dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Mark">
+                    I'll think about it
+                    Is it always this easy?
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="21">
+            <panel p="1"/>
+            <panel p="2"/>
+            <panel p="3"/>
+            <panel p="4">
+                <dialogue speaker="Man">
+                    *Yawn*
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Man">
+                    Where am I?
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Man">
+                    What the--?!
+                </dialogue>
+            </panel>
+        </page>
+
+        <page n="22">
+            <panel p="1">
+                <dialogue speaker="SoundEffect">
+                    BOOM!
+                </dialogue>
+            </panel>
+        </page>
+    </comic>
+</xml>

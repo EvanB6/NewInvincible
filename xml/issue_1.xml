@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../Downloads/schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+
+    
+        <metadata>
+            <title>Invincible Issue 1</title>
+            <creator>Cory Walker and Robert Kirkman</creator>
+            <publisher>Image Comics</publisher>
+            <date>January 20, 2003</date>
+            <language>English</language>
+            <issue n="1">Issue 1</issue>
+            <link>file:///C:/Users/kenda/Documents/GitHub/textEncoding-Hub/Invincible/images/vol%201%20issue%201/Issue%201%20Invincible.pdf</link>
+        </metadata>
+   
+   <comic>
+    <page n="1">
+            <panel p="1"></panel>
+        <caption speaker=""></caption>
+        <dialogue speaker=""></dialogue>
+        <action speaker=""></action>
+          </page>  
+   
+    <page n="2">
+        <panel p="1"></panel>
+        <caption speaker="none"></caption>
+        <dialogue speaker="MG">Y'know, you really <bold>ruined</bold> my afternoon.</dialogue>
+        <action speaker="none"></action>
+        </page>
+
+    <page n="3">
+        <panel p="1">
+        <caption speaker=""></caption></panel>
+        <panel p="2"></panel>
+        
+        <dialogue speaker="MG">Well, now that I've got you all to myself...</dialogue>
+        <sound type="effect">CHA-THOOM!</sound>
+        
+    </page>
+
+    <page n="4">
+        <dialogue who="MG">
+            <emphasis type="accent">Sigh</emphasis>
+        </dialogue>
+        <sound type="effect">THOOM!</sound>
+        <dialogue who="MG">If I keep this up I'm going to give myself a heart attack!</dialogue>
+       
+    </page>
+
+    <page n="5">
+        <caption type="flashback"><alt type="bold">F</alt>our months ago...</caption>
+        <dialogue who="DG">If you keep that up, you're going to give yourself a <alt type="bold"
+                >heart attack!</alt></dialogue>
+        <dialogue who="MG"><alt type="bold">Jesus, Mom!</alt> I'm just reading a comic book! I'll be
+            out in a minute!</dialogue>
+        <dialogue who="DG">Well, you need to <alt type="bold">stop</alt> reading that comic book and
+            start getting ready. You're going to be late for school!</dialogue>
+        <dialogue who="MG">Don't worry... I won't be late.</dialogue>
+        
+    </page>
+
+    <page n="6">
+        <dialogue who="MG">See. what'd I tell you?</dialogue>
+        <dialogue who="DG">Ready, with ten minutes to spare. I should never have doubted you,
+            Son.</dialogue>
+        <dialogue who="MG">Where's Dad at? Did he come home last night?</dialogue>
+        <dialogue who="DG">No, he's had a lot of trouble at work, lately. I just wish I knew where
+            he was.</dialogue>
+        <dialogue who="MG">Can you turn the TV on, please?</dialogue>
+        <dialogue who="DG">Sure.</dialogue>
+        <sound type="tv">...Using a dragon-like monster to enslave a portion of Taiwan. New reports
+            reveal the blurred figure seen in this amateure photograph to be none other than <alt
+                type="bold">Omni-Man,</alt> defender of democracy.</sound>
+        <sound type="tv">Eyewitness reports are that the battle has been raging for nearly ten
+            hours, destroying portions of the town in its wake. Stay tuned to channel six, Action
+            News for any further information.</sound>
+        <dialogue who="MG">Well, now you know where he is.</dialogue>
+        <dialogue who="DG">I hope he brings back something nice for me. I've never been to
+            Taiwan.</dialogue>
+        
+    </page>
+
+    <page n="7">
+        <dialogue who="WC">Hey! Mark, wait up!</dialogue>
+        <dialogue who="MG">Oh. Hey, William. What's up?</dialogue>
+        <dialogue who="WC">A few of us are gonna go hang out at Shenanigans tonight. Do you want to
+            tag along?</dialogue>
+        <dialogue who="MG">No can do, <nickname who="WC" type="friendly">Pal</nickname>. I've got to
+            be at Burger Mart in about twenty minutes!</dialogue>
+        <dialogue who="WC">Oh, yeah. Forgot about you having the job... Sucks to be you.</dialogue>
+        <dialogue who="MG">Thanks, man. I'll see you later.</dialogue>
+        
+    </page>
+
+    <page n="8">
+        <dialogue who="MG">It's about time.</dialogue>
+        
+    </page>
+
+    <page n="9">
+        <dialogue who="DG">Let's go ahead and start. It doesn't look like he's going to be home any
+            time soon.</dialogue>
+        <dialogue who="MG">I had a pretty interesting day--</dialogue>
+        <sound type="effect">WOOOOOOOOOSH!</sound>
+        <dialogue who="OM">Sorry I'm late. There was an enchanted flood in Egypt I had to deal with
+            on the way over.</dialogue>
+        
+    </page>
+
+    <page n="10">
+        <dialogue who="DG">Did you take care of that dragon?</dialogue>
+        <dialogue who="OM">Yeah, once I found out who was controlling the thing, there wasn't much
+            to it. The hard part was keeping the civilians safe while I figured out who was behind
+            it all.</dialogue>
+        <dialogue who="DG">Your publisher called. He wanted to check and see how the next book was
+            coming along. I told him you were on one of your research trips.</dialogue>
+        <dialogue who="OM">I guess I'll take a day off this weekend and write a book for them. I'll
+            have to pick up a couple spare keyboards. I hope the Guardians of the Globe can cover
+            for me.</dialogue>
+        <dialogue who="DG">So... how was <alt type="bold">your</alt> day, Mark?</dialogue>
+        <dialogue who="MG">Fine. I think I'm finally getting superpowers.</dialogue>
+        <dialogue who="DG">That's nice. Can you pass the potatoes?</dialogue>
+       
+    </page>
+
+    <page n="11">
+        <dialogue who="MG">Okay...</dialogue>
+        <dialogue who="MG">...Dad says it's just a reflex... So if I <alt type="bold">can</alt>
+            fly... It should just happen when I jump off.</dialogue>
+        <dialogue who="MG">As long as I have my dad's invulnerability, this shouldn't even hurt if I
+            hit the ground.</dialogue>
+        <dialogue who="MG">...But if I can't fly yet... Then it's possible that I'm not invulnerable
+            yet... ...</dialogue>
+        <dialogue who="MG">Oh... What the heck!</dialogue>
+        <dialogue who="MG">
+            <alt type="bold">Whoa!</alt>
+        </dialogue>
+        <dialogue who="MG">
+            <alt type="bold">Too cool!</alt>
+        </dialogue>
+        
+    </page>
+
+    <page n="12">
+        <dialogue who="titan">Boy, we really screwed that one up!</dialogue>
+        <dialogue who="grunt_1">
+            <alt type="bold">We?</alt>
+        </dialogue>
+        <dialogue who="titan">Oh, so it's my fault the cops showed up so quick?</dialogue>
+        <dialogue who="grunt_1">It was a diamond heist! We <alt type="bold">knew</alt> there would
+            be cops there! Why do you think we brought you along?!</dialogue>
+        <dialogue who="grunt_2">You were there to take care of the cops so we could calmly make our
+            getaway.</dialogue>
+        <dialogue who="grunt_2">You weren't supposed to run with us, you idiot!</dialogue>
+        <dialogue who="titan">Just because bullets bounce off me doesn't mean they feel like back
+            rubs! There were at least six cops back there ready to open fire!</dialogue>
+        <dialogue who="titan">Besides... they won't catch us.</dialogue>
+        <dialogue who="grunt_2">Whatever, just get us over that fence.</dialogue>
+       
+    </page>
+    
+    <page n="13">
+        <sound type="effect">POW!</sound>
+        <sound type="effect">THOOM</sound>
+        <sound type="effect">KRAK!</sound>
+        <dialogue who="titan">Who the hell are you?</dialogue>
+        <dialogue who="titan">Are you trying to stop us or rob us?</dialogue>
+        <sound type="effect">THOOM!</sound>
+        
+    </page>
+    
+    <page num="14">
+        <dialogue who="MG">Sorry about that... I guess the outfit could be a bit misleading. I'm sure my intentions are clear, now.</dialogue>
+    </page>
+       
+       </comic>
+
+</xml>

@@ -1,0 +1,27 @@
+start = xml
+xml = element xml{metadata, comic}
+
+metadata = element metadata {title, creator, publisher, date, language, issue, link}
+
+title = element title{text}
+creator = element creator{text}
+publisher = element publisher{text}
+date = element date{text}
+language = element language{text}
+issue = element issue{n, text}
+n = attribute n {xsd:int}
+link = element link{text}
+
+comic = element comic{page*, text}
+
+page = element page{n, panel*, mixed{(caption | dialogue)*}}
+
+panel = element panel{p, mixed{caption* | dialogue* | action*}}
+p = attribute p{xsd:int}
+
+caption = element caption{speaker, mixed{sound*,bold*} }
+dialogue = element dialogue{speaker, mixed{sound*,bold*} }
+action = element action{text}
+speaker = attribute speaker{text}
+sound = element sound{text}
+bold = element bold{text}

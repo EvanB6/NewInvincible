@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+
+    <metadata>
+        <title>Invincible</title>
+        <creator>ROBERT KIRKMAN (CO-CREATOR, WRITER, LETTERER)Cory Walker( Co-Creator, Artist) Billl
+            Crabtree(Colorist)</creator>
+        <publisher>Jim Valentino(ImageComics)</publisher>
+        <date>Apri 2003</date>
+        <language>english</language>
+        <issue n="3">Compendium 1</issue>
+        <link>https://archive.org/details/invincible-compendiums/Invincible%2C%20Vol.%201/page/n51/mode/2up</link>
+    </metadata>
+
+    <comic>
+        <page n="52">
+            <panel p="1">
+                <caption speaker="Mayor?">WE ARE CURRENTLY WORKING WITH THE AUTHORITIES TO GlVE THEM
+                    ALL THE INFORMATION WE CAN IN ORDER TO HELP THEM LOCATE THE MISSING STUDENTS.
+                    .</caption>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mayor">I MUST STRESS TO YOU ALL THAT THIS IS NOT A REASON TO
+                    PANIC. THE THREE MISSING STUDENTS, THOUGH REPORTED MISSING ON DIFFERENT DAYS,
+                    DID KNOW EACH OTHER. IT'S POSSIBLE THIS WAS PLANNED BY THEM AND NO FOUL PLAY HAS
+                    TAKEN PLACE. STILL, WE CALLED THIS SCHOOL MEETING SO THAT THE RUMORS WOULDN'T
+                    OVERWHELM THE TRUTH. YOU KNOW WHAT WE KNOW. JUST TO BE SAFE TRY NOT TO GO
+                    ANYWHERE ALONE, AND PLEASE REPORT ANYTHING SUSPICIOUS TO EITHER ME OR ANY OF THE
+                    OTHER PEOPLE YOU SEE HERE BESIDES ME.</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mayor">IF WE'RE LUCKY, THE MISSING STUDENTS WILL SHOW UP AND
+                    EVERYTHING WILL GO BACK TO NORMAL, BUT UNTIL THEN KEEP YOUR EARS OPEN. IF ANY OF
+                    YOU HAVE ANY QUESTIONS, I'LL BE IN MY OFFICE IN ABOUT FIFTEEN MINUTES AND MORE
+                    THAN LIKELY FOR THE REST OF THE DAY. YOU CAN ALL GO BACK TO CLASS NOW. JUST GO
+                    ON TO FOURTH PERIOD FROM HERE. PEOPLE WHO ARE ON FIRST LUNCH PERIOD CAN GO ON TO
+                    THE CAFETERIA. THE BELL WILL RING IN SEVEN MINUTES, PLEASE BE WHERE YOU'RE
+                    SUPPOSED TO BE BY THEN.</dialogue>
+            </panel>
+        </page>
+        <page n="53">
+            <panel p="1">
+                <dialogue speaker="Mark">EVERYONE'S THINKING IT... AND I'M GOING TO BE THE GUY TO
+                    SAY IT. WHATEVER HAPPENED... COULDN'T HAVE HAPPENED TO A NICER BUNCH OF
+                    GUYS.</dialogue>
+                <dialogue speaker="Eve">JESUS, MARK! THAT'S A PRETTY MEAN THING TO SAY! I TALKED TO
+                    TODD A FEW TIMES... I MEAN, I CAN'T SPEAK FOR THE OTHER TWO BUT HE AT LEAST
+                    SEEMED NICE.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">YOU'RE TOTALLY CLUELESS! WHY DO YOU THINK TODD JEFFERSON
+                    WOULD BE NICE TO YOU? OFF THE TOP OF MY HEAD... I THINK IT MAY HAVE SOMETHING TO
+                    DO WITH YOU BEING AN EXTREMELY ATTRACTIVE GIRL.</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Eve">YOU KNOW I'M DATING REX, RIGHT?</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">WHOA, WHOA! THAT'S NOT WHERE I WAS GOING WITH THAT AT ALL!
+                    ... HEH.</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Eve">RIIIGHT. SO, ARE YOU ON YOUR WAY TO THE CAFETERIA TOO, OR
+                    ARE YOU JUST WALKING WITH ME?</dialogue>
+                <dialogue speaker="Mark">WELL, I GUESS WE HAVE THE SAME LUNCH PERIOD, TOO. I CAN'T
+                    BELIEVE WE HADN'T MET BEFORE LAST MONTH.</dialogue>
+            </panel>
+        </page>
+        <page n="54">
+            <panel p="1">
+                <dialogue speaker="Mark">IS THIS SEAT TAKEN?</dialogue>
+                <dialogue speaker="Eve">NOT AT ALL. HAVE AT IT.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">SORRY IF I MADE IT WEIRD BACK THERE. I JUST WANTED TO MAKE
+                    SURE YOU DIDN'T THINK--</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">DON'T EVEN THINK ABOUT IT. IT DOESN'T NEED TO BE BROUGHT UP
+                    AGAIN.</dialogue>
+            </panel>
+            <panel p="4">
+                <action>Mark and Eve sit in silence.</action>
+            </panel>
+            <panel p="5">
+                <action>Mark and Eve sit in silence.</action>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">SO... SURE IS FUN BEING A SUPER-HERO, ISN'T IT?</dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Eve">DID YOU HEAR THERE WAS ANOTHER MALL BOMBING? ROBOT IS TRYING
+                    TO FIGURE OUT WHO'S BEHIND THEM, BUT THE BOMBS ARE SO POWERFUL THEY ARE
+                    DISINTEGRATING ALL THE EVIDENCE AT THE SCENE.</dialogue>
+            </panel>
+            <panel p="8">
+                <dialogue speaker="Mark">ANOTHER BOMBING? THAT'S TWO IN LESS THAN THREE
+                    WEEKS.</dialogue>
+            </panel>
+        </page>
+        <page n="55">
+            <panel p="1">
+                <dialogue speaker="Eve">IF YOU WANT TO SWING BY THE... "SECRET LAIR" (OR WHATEVER
+                    THE BOYS CALL IT) AFTER SCHOOL TODAY, I'M SURE ROBOT WOULD BE GLAD TO SEE YOU.
+                    YOU NEVER DID GET BACK TO HIM ON WHETHER OR NOT YOU WERE GOING TO JOIN THE
+                    TEAM.</dialogue>
+                <dialogue speaker="Mark">I DON'T KNOW IF I CAN MAKE IT. I'VE GOT TO WORK
+                    TONIGHT.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Eve">YOU STILL WORK AT THE BURGER MART? ISN'T YOUR DAD A
+                    SEMI-FAMOUS NOVELIST?!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">WELL.. YEAH, I MEAN... IT'S NOT LIKE I NEED THE MONEY, HE
+                    MAKES ME WORK THERE BECAUSE HE THINKS IT BUILDS CHARACTER.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Eve">WEIRD. WELL, I'VE GOT TO GET TO CLASS. SEE YOU
+                    AROUND.</dialogue>
+                <dialogue speaker="Mark">LATER.</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="William">SO, THE RUMORS ARE TRUE. YOU GUYS ARE GOING
+                    OUT.</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">OH. HEY, WILLIAM... GOING OUT WHERE?</dialogue>
+                <dialogue speaker="William">DON'T PLAY DUMB WITH ME. YOU TWO ARE AN ITEM, BOYFRIEND
+                    AND GIRLFRIEND, AND ALL THE PERKS THAT COME WITH IT.</dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Mark">TRUST ME. SHE'S NOT MY GIRLFRIEND.</dialogue>
+            </panel>
+        </page>
+        <page n="56">
+            <panel p="1">
+                <action>The sign outside for Burger Mart is shown.</action>
+            </panel>
+            <panel p="2">
+                <action>Mark is shown in the kicthen looking distressed.</action>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Dan">GRAYSON! FRIES! WE GOT CUSTOMERS WAITING!</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">COMING RIGHT UP, SIR!</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Dan">COMING RIGHT UP? DO YOU REALIZE HOW LONG OUR CUSTOMERS HAVE
+                    BEEN WAITING?! DON'T YOU KNOW THAT WAITING CUSTOMERS AREN'T HAPPY
+                    CUSTOMERS?</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">NO... I GUESS NOT.</dialogue>
+            </panel>
+        </page>
+        <page n="57">
+            <panel p="1">
+                <dialogue speaker="Dan">YOU GUESS?!??! WELL, YOU BETTER HOPE COME FRIDAY THAT I
+                    GUESS THAT YOU SHOULD GET PAID! NOW, GO TAKE OUT THE TRASH. I'LL FINISH THE
+                    FRIES!</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">YOU KNOW WHAT? I THINK I'LL JUST QUIT INSTEAD!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">JERK!</dialogue>
+            </panel>
+            <panel p="4">
+                <action>Mark is standing outside of Burger Mart after quitting.</action>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">DAD'S GOING TO KILL ME.</dialogue>
+            </panel>
+        </page>
+        <page n="58">
+            <panel p="1">
+                <dialogue speaker="Mark">BOY, THAT CASSEROLE SURE WAS GOOD, MOM.</dialogue>
+                <dialogue speaker="Nolan">ABSOLUTELY, HON'. YOU REALLY OUTDID YOURSELF
+                    TONIGHT.</dialogue>
+                <dialogue speaker="Debbie">THANKS, BUT YOU'RE BOTH STILL GOING TO HAVE TO DO THE
+                    DISHES.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Nolan">CURSES... FOILED AGAIN.</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">SO, HOW WAS WORK TODAY?</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">OH! FINE! DO YOU WANT TO WASH OR RINSE!</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Nolan">OH, I'LL BE WASHING, TONIGHT. HOW MANY DISHES DID I HAVE
+                    TO HAND BACK TO YOU LAST NIGHT?</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Nolan">I WAS THINKING... NOW THAT YOU'RE AN ACTIVE SUPER-HERO,
+                    YOU'VE GOT MORE IMPORTANT THINGS TO DO THAN FLIP BURGERS. I DON'T SEE ANY REASON
+                    WHY YOU CAN'T JUST QUIT. IT'S NOT LIKE YOU EVER REALLY NEEDED THE
+                    MONEY.</dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Mark">I THINK I COULD MANAGE THAT.</dialogue>
+            </panel>
+        </page>
+    </comic>
+
+
+
+
+</xml>
