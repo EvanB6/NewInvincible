@@ -17,47 +17,47 @@
     <comic>
         <page n="3">
             <panel p="1">
-                <dialogue speaker="robot">REMARKABLE. THE GAME BOX PROCESSOR IS SO ADVANCED IT COULD
+                <dialogue speaker="Robot">REMARKABLE. THE GAME BOX PROCESSOR IS SO ADVANCED IT COULD
                     OPERATE THIS MACHINE FOR YEARS WITH A BUROUT RATE OF LESS THAN TEN PERCENT! HAD
                     WE NOT STOPPED THE MAULER TWINS BEFORE THEY ACTIVATED THEM THEY WOULD HAVE BEEN
                     NEARLY UNSTOPPABLE. FASCINATING. SIMPLY FASCINATING.</dialogue>
-                <dialogue speaker="Invincible">ROBOT?</dialogue>
+                <dialogue speaker="Mark">ROBOT?</dialogue>
             </panel>
         </page>
         <page n="4">
             <panel p="1">
-                <dialogue speaker="robot">HELLO, INVINCIBLE. WHAT CAN I DO FOR YOU?</dialogue>
+                <dialogue speaker="Robot">HELLO, INVINCIBLE. WHAT CAN I DO FOR YOU?</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible">I'M TRYING TO FIND EVE... DO YOU KNOW WHERE SHE
+                <dialogue speaker="Mark">I'M TRYING TO FIND EVE... DO YOU KNOW WHERE SHE
                     IS?</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="robot">EVE AND REX ARE OUT ON A MISSION RIGHT NOW, BUT THEY
+                <dialogue speaker="Robot">EVE AND REX ARE OUT ON A MISSION RIGHT NOW, BUT THEY
                     SHOULD BE CHECKING IN HERE BEFORE THEY GO HOME FOR THE NIGHT.</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">CRAP... I REALLY NEED TO TALK TO HER.</dialogue>
-                <dialogue speaker="robot">WOULD YOU LIKE ME TO GIVE HER A MESSAGE? WAIT A MINUTE YOU
+                <dialogue speaker="Mark">CRAP... I REALLY NEED TO TALK TO HER.</dialogue>
+                <dialogue speaker="Robot">WOULD YOU LIKE ME TO GIVE HER A MESSAGE? WAIT A MINUTE YOU
                     KNOW SHE'S DATING REX, RIGHT?</dialogue>
-                <dialogue speaker="Invincible"><bold>YEAH</bold>. ...THAT'S <bold>NOT</bold> WHAT
+                <dialogue speaker="Mark"><bold>YEAH</bold>. ...THAT'S <bold>NOT</bold> WHAT
                     THIS IS ABOUT AT ALL. </dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Invincible">IT'S THESE MALL BOMBINGS. UM... WELL... THIS IS GOING
+                <dialogue speaker="Mark">IT'S THESE MALL BOMBINGS. UM... WELL... THIS IS GOING
                     TO SOUND WEIRD, BUT... SOMEONE IS TURNING KIDS FROM OUR SCHOOL INTO HUMAN
                     BOMB.</dialogue>
             </panel>
             <panel p="6">
-                <dialogue speaker="robot">I KNOW.</dialogue>
+                <dialogue speaker="Robot">I KNOW.</dialogue>
             </panel>
         </page>
         <page n="5">
             <panel p="1">
-                <dialogue speaker="robot">Hello, Invincible. What can I do for you?</dialogue>
+                <dialogue speaker="Robot">Hello, Invincible. What can I do for you?</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible"> I’m trying to find Eve... Do you know where she is?
+                <dialogue speaker="Mark"> I’m trying to find Eve... Do you know where she is?
                 </dialogue>
             </panel>
             <panel p="3">
@@ -66,14 +66,14 @@
                     night.</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible"> Crap... I really need to talk to her. </dialogue>
+                <dialogue speaker="Mark"> Crap... I really need to talk to her. </dialogue>
                 <dialogue speaker="Robot"> Would you like me to give her a message? </dialogue>
                 <dialogue speaker="Robot"> Wait a minute, you know she's dating rex, right? </dialogue>
-                <dialogue speaker="Invincible"> Yeah. That’s not what this is about at
+                <dialogue speaker="Mark"> Yeah. That’s not what this is about at
                     all.</dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Invincible"> It’s these mall bombings, man. While this is going
+                <dialogue speaker="Mark"> It’s these mall bombings, man. While this is going
                     to sound weird... someone’s turning kids into human bombs. </dialogue>
             </panel>
             <panel p="6">
@@ -82,7 +82,7 @@
         </page>
         <page n="6">
             <panel p="1">
-                <dialogue speaker="Invincible"> I mean, it’s late and all but I just wanted to let
+                <dialogue speaker="Mark"> I mean, it’s late and all but I just wanted to let
                     her know so that— wait what? </dialogue>
             </panel>
             <panel p="2">
@@ -94,22 +94,22 @@
                     but I’m sure I would have... eventually. </dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="Invincible"> Well... I’m only sure that the most recent one went
+                <dialogue speaker="Mark"> Well... I’m only sure that the most recent one went
                     to my school, but he's one of the three kids that are missing. </dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Eve"> Well, if it isn’t our new pal, Invincible what are you
+                <dialogue speaker="AtomEve"> Well, if it isn’t our new pal, Invincible what are you
                     doing here? </dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Invincible"> I think the mall bombing are connected to the
+                <dialogue speaker="Mark"> I think the mall bombing are connected to the
                     missing kids at our school. </dialogue>
             </panel>
             <panel p="6">
                 <dialogue speaker="Rex">Oh, god, that’s awful.</dialogue>
                 <dialogue speaker="Rex">Bye, babe.</dialogue>
                 <dialogue speaker="Rex">*smeck*</dialogue>
-                <dialogue speaker="Eve">Any idea who’s behind it?</dialogue>
+                <dialogue speaker="AtomEve">Any idea who’s behind it?</dialogue>
             </panel>
             <panel p="7">
                 <dialogue speaker="Robot"> No, and there’s nothing we can do about that tonight. I
@@ -122,7 +122,7 @@
                 <dialogue speaker=""/>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible">Mom? What are you still doing up? </dialogue>
+                <dialogue speaker="Mark">Mom? What are you still doing up? </dialogue>
             </panel>
             <panel p="3">
                 <dialogue speaker="Debbie">Aren't I allowed to watch some late night tv in my own
@@ -131,7 +131,7 @@
                     wearing tights doesn't mean you don't have a curfew. </dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">I guess I just got tied up at the teen team's
+                <dialogue speaker="Mark">I guess I just got tied up at the teen team's
                     place... um... you're not worrying about dad, are you? </dialogue>
             </panel>
             <panel p="5">
@@ -143,63 +143,63 @@
                 <dialogue speaker="Debbie">I JUST NEVER KNOW WHAT TO THINK... THERE'S NO WAY OF
                     TELLING HOW LONG HE'LL BE GONE. DO YOU REMEMBER WHEN YOU WERE LITTLE... AND HE
                     WAS GONE FOR ALMOST SIX MONTHS? HE MISSED YOUR BIRTHDAY THAT YEAR.</dialogue>
-                <dialogue speaker="Invincible">It's GOING TO BE OKAY, MOM. DON’T WORRY ABOUT PAD.
+                <dialogue speaker="Mark">It's GOING TO BE OKAY, MOM. DON’T WORRY ABOUT PAD.
                     HELL BE BACK...</dialogue>
             </panel>
         </page>
         <page n="7">
             <panel p="1">
-                <dialogue speaker="EVE">S0, MARK... WHAT PO YOU ΤΗΙΝΚ ОҒ ALL THIS?</dialogue>
-                <dialogue speaker="Invincible">І САNТ BELIEVE THEY EXPECT US TO EAT BOILED CHICKEN
+                <dialogue speaker="AtomEve">S0, MARK... WHAT PO YOU ΤΗΙΝΚ ОҒ ALL THIS?</dialogue>
+                <dialogue speaker="Mark">І САNТ BELIEVE THEY EXPECT US TO EAT BOILED CHICKEN
                     FOR LUNCH... IT’SINHUMANE.</dialogue>
-                <dialogue speaker="EVE">NO... THIS MALL BOMBING STUFF.</dialogue>
+                <dialogue speaker="AtomEve">NO... THIS MALL BOMBING STUFF.</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible">I DON’T KNOW... IT’S UNSETTLING. I MEAN, I KNOW THIS
+                <dialogue speaker="Mark">I DON’T KNOW... IT’S UNSETTLING. I MEAN, I KNOW THIS
                     IS GOING TO SOUND BAD, BUT, I'М TRYING NOT TO THINK ABOUT IT.</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="EVE">WELL, THAT’S A <bold>GREAT</bold> WAY TO FIGURE THIS THING
+                <dialogue speaker="AtomEve">WELL, THAT’S A <bold>GREAT</bold> WAY TO FIGURE THIS THING
                     OUT!</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">SORRY, BUT LET’S BE REALISTIC. SHOULP WE BE SEARCHING
+                <dialogue speaker="Mark">SORRY, BUT LET’S BE REALISTIC. SHOULP WE BE SEARCHING
                     FOR CLUES RIGHT NOW? I FOR ONE АМ NOT PRESSED FOR THAT SORT OF THING, ΑΝD WE
                     DON’T EVEN HAVE A DOG</dialogue>
-                <dialogue speaker="Invincible">DON’T THINK FOR A SECOND THAT I DON'T WANT TO CATCH
+                <dialogue speaker="Mark">DON’T THINK FOR A SECOND THAT I DON'T WANT TO CATCH
                     THIS GUY. I JUST THINK THAT WE DON'T REALLY HAVE ANYTHING TO GO ON RIGHT NOW...
                     Right?</dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="EVE">I guess. I mean, there are plently of possibilities but
+                <dialogue speaker="AtomEve">I guess. I mean, there are plently of possibilities but
                     really nothing to point us in any direction. SIGH </dialogue>
             </panel>
             <panel p="6">
-                <dialogue speaker="Invincible">No kidding. I wish it were just a big monster we
+                <dialogue speaker="Mark">No kidding. I wish it were just a big monster we
                     could punch. </dialogue>
             </panel>
         </page>
         <page n="8">
             <panel p="1">
-                <dialogue speaker="EVE">I hear you. the fighting part is so much easier than the
+                <dialogue speaker="AtomEve">I hear you. the fighting part is so much easier than the
                     thinking part.</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible">To tell you the truth, I think that's really the only
+                <dialogue speaker="Mark">To tell you the truth, I think that's really the only
                     part i'm actually qualified for.</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="EVE">Oh, come on... you're not <bold>that</bold>tough.</dialogue>
+                <dialogue speaker="AtomEve">Oh, come on... you're not <bold>that</bold>tough.</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">Thanks.</dialogue>
+                <dialogue speaker="Mark">Thanks.</dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="EVE">Don't mention it. so, I guess i'll see you in mr. Hiles
+                <dialogue speaker="AtomEve">Don't mention it. so, I guess i'll see you in mr. Hiles
                     class later?</dialogue>
             </panel>
             <panel p="6">
-                <dialogue speaker="Invincible">That's the plan... and i'll try to keep my eyes open
+                <dialogue speaker="Mark">That's the plan... and i'll try to keep my eyes open
                     for anything suspicious until then.</dialogue>
             </panel>
         </page>
@@ -229,8 +229,8 @@
         </page>
         <page n="10">
             <panel p="1">
-                <dialogue speaker="EVE">Did you spot anything?</dialogue>
-                <dialogue speaker="Invincible">Um... No I didn't see anything... strange.</dialogue>
+                <dialogue speaker="AtomEve">Did you spot anything?</dialogue>
+                <dialogue speaker="Mark">Um... No I didn't see anything... strange.</dialogue>
             </panel>
             <panel p="2">
                 <dialogue speaker="Mr. Hiles">I'M SURE YOU’RE ALL AWARE THAT MIDTERMS ARE IN A
@@ -239,8 +239,8 @@
                     OKAY?</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="Invincible">What about you?</dialogue>
-                <dialogue speaker="Eve">Nothing.</dialogue>
+                <dialogue speaker="Mark">What about you?</dialogue>
+                <dialogue speaker="AtomEve">Nothing.</dialogue>
             </panel>
             <panel p="4">
                 <dialogue speaker="Mr. Hiles">Excuse me, you two!</dialogue>
@@ -261,7 +261,7 @@
                 <dialogue speaker="class">HA! HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible">She's <bold>Not</bold> my girlfriend.</dialogue>
+                <dialogue speaker="Mark">She's <bold>Not</bold> my girlfriend.</dialogue>
             </panel>
             <panel p="3">
                 <dialogue speaker="Mr. Hiles">Sorry. I was jumping to conclusions, but the fact
@@ -269,12 +269,12 @@
                     today.</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">Sorry, sir. I'll try to make sure it diesn't happen
+                <dialogue speaker="Mark">Sorry, sir. I'll try to make sure it diesn't happen
                     again.</dialogue>
             </panel>
             <panel p="4">
                 <dialogue speaker="Mr. Hiles">You do that.</dialogue>
-                <dialogue speaker="Invincible">Jerk.</dialogue>
+                <dialogue speaker="Mark">Jerk.</dialogue>
             </panel>
         </page>
         <page n="12">
@@ -282,27 +282,27 @@
                 <dialogue speaker="none"/>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible">...</dialogue>
+                <dialogue speaker="Mark">...</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="Invincible">So... that was uncomfortable.</dialogue>
-                <dialogue speaker="Eve">Yeah...</dialogue>
+                <dialogue speaker="Mark">So... that was uncomfortable.</dialogue>
+                <dialogue speaker="AtomEve">Yeah...</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">It wouldn't have been so bad if--</dialogue>
-                <dialogue speaker="Eve">hold on.</dialogue>
+                <dialogue speaker="Mark">It wouldn't have been so bad if--</dialogue>
+                <dialogue speaker="AtomEve">hold on.</dialogue>
                 <dialogue speaker="phone"><sound>Ring, Ring!</sound></dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Eve">Oh, look who it is.</dialogue>
+                <dialogue speaker="AtomEve">Oh, look who it is.</dialogue>
             </panel>
             <panel p="6">
-                <dialogue speaker="Eve">hey, Robot. What's up?</dialogue>
+                <dialogue speaker="AtomEve">hey, Robot. What's up?</dialogue>
             </panel>
         </page>
         <page n="13">
             <panel p="1">
-                <dialogue speaker="robot">I've BEEN USING SECONDARY OPERATING SYSTEMS TO RUN CHECKS
+                <dialogue speaker="Robot">I've BEEN USING SECONDARY OPERATING SYSTEMS TO RUN CHECKS
                     ON ALL EMPLOYEES OF YOUR HIGH SCHOOL. TEACHERS, CUSTODIANS, BUS DRIVERS,
                     EVERYONE, AND I-- Holdon.</dialogue>
             </panel>
@@ -310,58 +310,58 @@
                 <dialogue speaker="none"/>
             </panel>
             <panel p="3">
-                <dialogue speaker="Invincible">AS I WAS SAYING, I WAS CHECKING THE BACKGROUND, АМР
+                <dialogue speaker="Mark">AS I WAS SAYING, I WAS CHECKING THE BACKGROUND, АМР
                     EMPLOYMENT HISTORIES ON THE EMPLOYEES OF YOUR SCHOOL...</dialogue>
                 <dialogue speaker="sound"><sound>KRAK</sound>!</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="robot">...CROSS-REFERENCING THEIR INFORMATION WITH THE NECESSARY
+                <dialogue speaker="Robot">...CROSS-REFERENCING THEIR INFORMATION WITH THE NECESSARY
                     KNOWLEDGE NEEDED TO CONSTRUCT A BOMB LIKE THE ONES USED IN THE MALL
                     BOMBINGS.</dialogue>
             </panel>
         </page>
         <page n="14">
             <panel p="1">
-                <dialogue speaker="robot">I THOUGHT IT MIGHT BE A FUTILE EFFORT, RESULTING IN
+                <dialogue speaker="Robot">I THOUGHT IT MIGHT BE A FUTILE EFFORT, RESULTING IN
                     NOTHING BUT DEAD ENDS. THANKFULLY, I WAS WRONG.</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="robot">SURPRISINGLY, YOUR PHYSICS TEACHER, DAVID HILES IS A
+                <dialogue speaker="Robot">SURPRISINGLY, YOUR PHYSICS TEACHER, DAVID HILES IS A
                     FORMER WEAPONS ENGINEER FOR GLOBALTECH, A MILITARY SANCTIONED RESARCH FIRM. IT'S
                     NOT DEFINITIVE EVIDENCE OF HIS GUILT, BUT I’M 99.8% SURE THAT HE’S WHO YOU’RE
                     LOOKING FOR.</dialogue>
                 <dialogue speaker="sound"><sound>BOOM</sound>!</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="robot">AFTER I GET OFF WITH YOU I'M GOING TO PUT IN A CALL TO ΤΗΕ
+                <dialogue speaker="Robot">AFTER I GET OFF WITH YOU I'M GOING TO PUT IN A CALL TO ΤΗΕ
                     POLICE AND SEE IF I CAN’T ATLEAST GET A SQUAD CAR SENT OUT ТО HIS
                     HOUSE.</dialogue>
-                <dialogue speaker="robot">I'M GOING TO GIVE YOU HIS ADDRESS SO YOU CAN CHECK THE
+                <dialogue speaker="Robot">I'M GOING TO GIVE YOU HIS ADDRESS SO YOU CAN CHECK THE
                     PLACE OUT BEFORE HE GETS HOME FROM SCHOOL.</dialogue>
             </panel>
         </page>
         <page n="15">
             <panel p="1">
-                <dialogue speaker="Eve">UH HUH OKAY... Bye.</dialogue>
+                <dialogue speaker="AtomEve">UH HUH OKAY... Bye.</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="Eve">You're not going to believe this!</dialogue>
-                <dialogue speaker="Invincible">What?</dialogue>
+                <dialogue speaker="AtomEve">You're not going to believe this!</dialogue>
+                <dialogue speaker="Mark">What?</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="Eve">I'll tell you on the way. C'mon, we've got to get changed.
+                <dialogue speaker="AtomEve">I'll tell you on the way. C'mon, we've got to get changed.
                         <bold>to the Cafeteria Dumpster!</bold></dialogue>
-                <dialogue speaker="Invincible">HA!</dialogue>
+                <dialogue speaker="Mark">HA!</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">SO... He calls you on a... cell phone?</dialogue>
+                <dialogue speaker="Mark">SO... He calls you on a... cell phone?</dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Eve">Sorry... The signal watch is in the shop. JEEZ, what do you
+                <dialogue speaker="AtomEve">Sorry... The signal watch is in the shop. JEEZ, what do you
                         <bold>expect</bold>him to call me on?</dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Eve">OH!</dialogue>
+                <dialogue speaker="AtomEve">OH!</dialogue>
             </panel>
             <panel p="6">
                 <dialogue speaker="students">Hey! why don't you guys find your spot!</dialogue>
@@ -369,13 +369,13 @@
         </page>
         <page n="16">
             <panel p="1">
-                <caption speaker="Invincible"> Well, that really killed our time. What sould we do
+                <caption speaker="Mark"> Well, that really killed our time. What sould we do
                     now? </caption>
-                <caption speaker="Eve"> Ask him questions I guess. According to the robot, the
+                <caption speaker="AtomEve"> Ask him questions I guess. According to the robot, the
                     police should be on the way. How dangerous could he be? </caption>
             </panel>
             <panel p="2">
-                <dialogue speaker="Invincible"> Hold it right there, sir. </dialogue>
+                <dialogue speaker="Mark"> Hold it right there, sir. </dialogue>
             </panel>
             <panel p="3">
                 <dialogue speaker="Mr. Hiles"> I didn’t expect to get caught quite this early, and
@@ -387,7 +387,7 @@
                 </dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Eve"> How did you—? </dialogue>
+                <dialogue speaker="AtomEve"> How did you—? </dialogue>
             </panel>
             <panel p="6">
                 <dialogue speaker="man"> Are you kidding me? You're not even wearing a mask.
@@ -396,7 +396,7 @@
             <panel p="7">
                 <dialogue speaker="Mr. Hiles"> Follow me, I'll show you to the fourth missing
                     student. I assure you, I have no intention of resisting. </dialogue>
-                <dialogue speaker="Invincible">
+                <dialogue speaker="Mark">
                     <bold>Fourth?</bold>
                 </dialogue>
                 <dialogue speaker="Mr. Hiles"> Yes. One of them hasn’t been reported missing yet.
@@ -406,7 +406,7 @@
         <page n="17">
             <panel p="1">
                 <dialogue speaker="Mr. Hiles"> It's just through here. </dialogue>
-                <dialogue speaker="Eve">It?</dialogue>
+                <dialogue speaker="AtomEve">It?</dialogue>
             </panel>
             <panel p="2">
                 <dialogue speaker="Mr. Hiles"> YES... IT. I САN'Т THINK OF A MORE FITTING SEGUE INTO
@@ -416,7 +416,7 @@
                 </dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="Invincible"><bold>DEREK!</bold></dialogue>
+                <dialogue speaker="Mark"><bold>DEREK!</bold></dialogue>
             </panel>
             <panel p="4">
                 <dialogue speaker="Mr. Hiles"> I'll spare you the boring details. IT’S NOT THE DEATH
@@ -427,10 +427,10 @@
                     SHOULD BE STUDYING, AND DOING HOMEWORK. </dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker="Invincible"> What did you do to him? </dialogue>
+                <dialogue speaker="Mark"> What did you do to him? </dialogue>
             </panel>
             <panel p="6">
-                <dialogue speaker="Invincible"> WHAT I DID TO ALL OF THEM. I TURNED HIM INTO A
+                <dialogue speaker="Mark"> WHAT I DID TO ALL OF THEM. I TURNED HIM INTO A
                     LIVING BOMB, АN INSTRUMENT WITH WHICH TO EXACT MY EVENGE... MY CRUSADE TO END
                     THE PAIN AND SORROW CAUSED BY THESE... "POPULAR" KIDS... AND I CAN'T THINK OF A
                     MORE APPROPRIATE END TO MY CRUSADE... </dialogue>
@@ -446,24 +446,24 @@
                     YOU HERE. NO MATTER, YOU'LL HAVE A FEW MORE SECONDS TO-- </dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="Invincible">I'M NOT WAITING FOR <bold>this</bold>.
+                <dialogue speaker="Mark">I'M NOT WAITING FOR <bold>this</bold>.
                     c'mere.</dialogue>
             </panel>
             <panel p="4">
                 <action>boom</action>
             </panel>
             <panel p="5">
-                <dialogue speaker="Invincible">Tha stuff in class today was uncalled for.</dialogue>
+                <dialogue speaker="Mark">Tha stuff in class today was uncalled for.</dialogue>
             </panel>
             <panel p="6">
-                <dialogue speaker="Invincible">Y'know you really <bold>ruined</bold> my
+                <dialogue speaker="Mark">Y'know you really <bold>ruined</bold> my
                     afternoon</dialogue>
             </panel>
         </page>
         <page n="19">
             <panel p="1"/>
             <panel p="2">
-                <dialogue speaker="Invincible">Well, now that i've got you all to
+                <dialogue speaker="Mark">Well, now that i've got you all to
                     myself...</dialogue>
             </panel>
             <panel p="3"/>
@@ -479,33 +479,33 @@
             <panel p="3"/>
             <panel p="4"/>
             <panel p="5">
-                <dialogue speaker="Invincible"/>
+                <dialogue speaker="Mark"/>
             </panel>
             <panel p="6">
-                <dialogue speaker="Invincible">If I keep this up, I'm going to give myself a heart
+                <dialogue speaker="Mark">If I keep this up, I'm going to give myself a heart
                     attack!</dialogue>
             </panel>
         </page>
         <page n="21">
             <panel p="1"/>
             <panel p="2">
-                <dialogue speaker="Invincible">So... is it over?</dialogue>
+                <dialogue speaker="Mark">So... is it over?</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="Eve"> ROBOT IS COMING BY ТО DO A SWEEP OF THE HOUSE TO CHECK FOR
+                <dialogue speaker="AtomEve"> ROBOT IS COMING BY ТО DO A SWEEP OF THE HOUSE TO CHECK FOR
                     ANYTHING DANGEROUS. I THINK THE POLICE WILL BE WRAPED UP HERE SHORTLY. </dialogue>
-                <dialogue speaker="Eve"> You can just go home if you want. I'm going to leave after
+                <dialogue speaker="AtomEve"> You can just go home if you want. I'm going to leave after
                     root gets here. </dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="Invincible">Sounds like a plan to me. The sooner I put this
+                <dialogue speaker="Mark">Sounds like a plan to me. The sooner I put this
                     behind me the better</dialogue>
             </panel>
         </page>
         <page n="22">
             <panel p="1"/>
             <panel p="2">
-                <dialogue speaker="Invincible">Hey, is dad back yet?</dialogue>
+                <dialogue speaker="Mark">Hey, is dad back yet?</dialogue>
             </panel>
             <panel p="3">
                 <dialogue speaker="Debbie">Not yet. Go upstairs and clean up so we can eat. I
@@ -553,7 +553,7 @@
         </page>
         <page n="26">
             <panel p="1">
-                <dialogue speaker="Invincible"> Look out, world-- Here comes
+                <dialogue speaker="Mark"> Look out, world-- Here comes
                         <bold>INVINCIBLE!</bold>
                 </dialogue>
             </panel>
