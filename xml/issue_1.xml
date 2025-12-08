@@ -1,178 +1,422 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../../Downloads/schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
+    <metadata>
+        <title>Invincible</title>
+        <creator>Robert Kirkman</creator>
+        <publisher>Image Comics</publisher>
+        <date>2003</date>
+        <language>English</language>
+        <issue n="1">1</issue>
+        <link>16 pages</link>
+    </metadata>
 
-    
-        <metadata>
-            <title>Invincible Issue 1</title>
-            <creator>Cory Walker and Robert Kirkman</creator>
-            <publisher>Image Comics</publisher>
-            <date>January 20, 2003</date>
-            <language>English</language>
-            <issue n="1">Issue 1</issue>
-            <link>file:///C:/Users/kenda/Documents/GitHub/textEncoding-Hub/Invincible/images/vol%201%20issue%201/Issue%201%20Invincible.pdf</link>
-        </metadata>
-   
-   <comic>
-    <page n="1">
-            <panel p="1"></panel>
-        <caption speaker=""></caption>
-        <dialogue speaker=""></dialogue>
-        <action speaker=""></action>
-          </page>  
-   
-    <page n="2">
-        <panel p="1"></panel>
-        <caption speaker="none"></caption>
-        <dialogue speaker="MG">Y'know, you really <bold>ruined</bold> my afternoon.</dialogue>
-        <action speaker="none"></action>
+    <comic>
+
+        <!-- PAGE 1 -->
+        <page n="1">
+            <panel p="1"/>
         </page>
 
-    <page n="3">
-        <panel p="1">
-        <caption speaker=""></caption></panel>
-        <panel p="2"></panel>
-        
-        <dialogue speaker="MG">Well, now that I've got you all to myself...</dialogue>
-        <sound type="effect">CHA-THOOM!</sound>
-        
-    </page>
+        <!-- PAGE 2 -->
+        <page n="2">
+            <panel p="1">
+                <dialogue speaker="Mark">
+                    Y'know, you really <bold>ruined</bold> my afternoon.
+                </dialogue>
+            </panel>
+        </page>
 
-    <page n="4">
-        <dialogue who="MG">
-            <emphasis type="accent">Sigh</emphasis>
-        </dialogue>
-        <sound type="effect">THOOM!</sound>
-        <dialogue who="MG">If I keep this up I'm going to give myself a heart attack!</dialogue>
-       
-    </page>
+        <!-- PAGE 3 -->
+        <page n="3">
+            <panel p="1"/>
+            <panel p="2">
+                <dialogue speaker="Mark">
+                    Well, now that I've got you all to myself...
+                </dialogue>
+                <dialogue speaker="SoundEffect">CHA-THOOM!</dialogue>
+            </panel>
+        </page>
 
-    <page n="5">
-        <caption type="flashback"><alt type="bold">F</alt>our months ago...</caption>
-        <dialogue who="DG">If you keep that up, you're going to give yourself a <alt type="bold"
-                >heart attack!</alt></dialogue>
-        <dialogue who="MG"><alt type="bold">Jesus, Mom!</alt> I'm just reading a comic book! I'll be
-            out in a minute!</dialogue>
-        <dialogue who="DG">Well, you need to <alt type="bold">stop</alt> reading that comic book and
-            start getting ready. You're going to be late for school!</dialogue>
-        <dialogue who="MG">Don't worry... I won't be late.</dialogue>
-        
-    </page>
+        <!-- PAGE 4 -->
+        <page n="4">
+            <panel p="1">
+                <dialogue speaker="Mark">*Sigh*</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="SoundEffect">THOOM!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">
+                    If I keep this up I'm going to give myself a heart attack!
+                </dialogue>
+            </panel>
+        </page>
 
-    <page n="6">
-        <dialogue who="MG">See. what'd I tell you?</dialogue>
-        <dialogue who="DG">Ready, with ten minutes to spare. I should never have doubted you,
-            Son.</dialogue>
-        <dialogue who="MG">Where's Dad at? Did he come home last night?</dialogue>
-        <dialogue who="DG">No, he's had a lot of trouble at work, lately. I just wish I knew where
-            he was.</dialogue>
-        <dialogue who="MG">Can you turn the TV on, please?</dialogue>
-        <dialogue who="DG">Sure.</dialogue>
-        <sound type="tv">...Using a dragon-like monster to enslave a portion of Taiwan. New reports
-            reveal the blurred figure seen in this amateure photograph to be none other than <alt
-                type="bold">Omni-Man,</alt> defender of democracy.</sound>
-        <sound type="tv">Eyewitness reports are that the battle has been raging for nearly ten
-            hours, destroying portions of the town in its wake. Stay tuned to channel six, Action
-            News for any further information.</sound>
-        <dialogue who="MG">Well, now you know where he is.</dialogue>
-        <dialogue who="DG">I hope he brings back something nice for me. I've never been to
-            Taiwan.</dialogue>
-        
-    </page>
+        <!-- PAGE 5 -->
+        <page n="5">
+            <panel p="1">
+                <dialogue speaker="Caption"><bold>Four months ago...</bold></dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Debbie">
+                    If you keep that up, you're going to give yourself a <bold>heart attack!</bold>
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">
+                    <bold>Jesus, Mom!</bold> I'm just reading a comic book! I'll be out in a minute!
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Debbie">
+                    Well, you need to <bold>stop</bold> reading that comic book and start getting ready.
+                    You're going to be late for school!
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">Don't worry... I won't be late.</dialogue>
+            </panel>
+        </page>
 
-    <page n="7">
-        <dialogue who="WC">Hey! Mark, wait up!</dialogue>
-        <dialogue who="MG">Oh. Hey, William. What's up?</dialogue>
-        <dialogue who="WC">A few of us are gonna go hang out at Shenanigans tonight. Do you want to
-            tag along?</dialogue>
-        <dialogue who="MG">No can do, <nickname who="WC" type="friendly">Pal</nickname>. I've got to
-            be at Burger Mart in about twenty minutes!</dialogue>
-        <dialogue who="WC">Oh, yeah. Forgot about you having the job... Sucks to be you.</dialogue>
-        <dialogue who="MG">Thanks, man. I'll see you later.</dialogue>
-        
-    </page>
+        <!-- PAGE 6 -->
+        <page n="6">
+            <panel p="1">
+                <dialogue speaker="Mark">See. what'd I tell you?</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Debbie">
+                    Ready, with ten minutes to spare. I should never have doubted you, son.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">Where's Dad at? Did he come home last night?</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Debbie">
+                    No, he's had a lot of trouble at work lately. I just wish I knew where he was.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">Can you turn the TV on, please?</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Debbie">Sure.</dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="SoundEffect">
+                    ...Using a dragon-like monster to enslave a portion of Taiwan.
+                    New reports reveal the blurred figure seen in this amateur photograph to be none
+                    other than <bold>Omni-Man</bold>, defender of democracy.
+                </dialogue>
+            </panel>
+            <panel p="8">
+                <dialogue speaker="SoundEffect">
+                    Eyewitness reports are that the battle has been raging for nearly ten hours,
+                    destroying portions of the town in its wake. Stay tuned to channel six,
+                    Action News for any further information.
+                </dialogue>
+            </panel>
+            <panel p="9">
+                <dialogue speaker="Mark">Well, now you know where he is.</dialogue>
+            </panel>
+            <panel p="10">
+                <dialogue speaker="Debbie">
+                    I hope he brings back something nice for me. I've never been to Taiwan.
+                </dialogue>
+            </panel>
+        </page>
 
-    <page n="8">
-        <dialogue who="MG">It's about time.</dialogue>
-        
-    </page>
+        <!-- PAGE 7 -->
+        <page n="7">
+            <panel p="1">
+                <dialogue speaker="William">Hey! Mark, wait up!</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">Oh. Hey, William. What's up?</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="William">
+                    A few of us are gonna go hang out at Shenanigans tonight.
+                    Do you want to tag along?
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">
+                    No can do, pal. I've got to be at Burger Mart in about twenty minutes!
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="William">
+                    Oh, yeah. Forgot about you having the job... Sucks to be you.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">Thanks, man. I'll see you later.</dialogue>
+            </panel>
+        </page>
 
-    <page n="9">
-        <dialogue who="DG">Let's go ahead and start. It doesn't look like he's going to be home any
-            time soon.</dialogue>
-        <dialogue who="MG">I had a pretty interesting day--</dialogue>
-        <sound type="effect">WOOOOOOOOOSH!</sound>
-        <dialogue who="OM">Sorry I'm late. There was an enchanted flood in Egypt I had to deal with
-            on the way over.</dialogue>
-        
-    </page>
+        <!-- PAGE 8 -->
+        <page n="8">
+            <panel p="1">
+                <dialogue speaker="Mark">It's about time.</dialogue>
+            </panel>
+        </page>
 
-    <page n="10">
-        <dialogue who="DG">Did you take care of that dragon?</dialogue>
-        <dialogue who="OM">Yeah, once I found out who was controlling the thing, there wasn't much
-            to it. The hard part was keeping the civilians safe while I figured out who was behind
-            it all.</dialogue>
-        <dialogue who="DG">Your publisher called. He wanted to check and see how the next book was
-            coming along. I told him you were on one of your research trips.</dialogue>
-        <dialogue who="OM">I guess I'll take a day off this weekend and write a book for them. I'll
-            have to pick up a couple spare keyboards. I hope the Guardians of the Globe can cover
-            for me.</dialogue>
-        <dialogue who="DG">So... how was <alt type="bold">your</alt> day, Mark?</dialogue>
-        <dialogue who="MG">Fine. I think I'm finally getting superpowers.</dialogue>
-        <dialogue who="DG">That's nice. Can you pass the potatoes?</dialogue>
-       
-    </page>
+        <!-- PAGE 9 -->
+        <page n="9">
+            <panel p="1">
+                <dialogue speaker="Debbie">
+                    Let's go ahead and start. It doesn't look like he's going to be home any time soon.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">I had a pretty interesting day--</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="SoundEffect">WOOOOOOOOOSH!</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Omniman">
+                    Sorry I'm late. There was an enchanted flood in Egypt I had to deal with on the way over.
+                </dialogue>
+            </panel>
+        </page>
 
-    <page n="11">
-        <dialogue who="MG">Okay...</dialogue>
-        <dialogue who="MG">...Dad says it's just a reflex... So if I <alt type="bold">can</alt>
-            fly... It should just happen when I jump off.</dialogue>
-        <dialogue who="MG">As long as I have my dad's invulnerability, this shouldn't even hurt if I
-            hit the ground.</dialogue>
-        <dialogue who="MG">...But if I can't fly yet... Then it's possible that I'm not invulnerable
-            yet... ...</dialogue>
-        <dialogue who="MG">Oh... What the heck!</dialogue>
-        <dialogue who="MG">
-            <alt type="bold">Whoa!</alt>
-        </dialogue>
-        <dialogue who="MG">
-            <alt type="bold">Too cool!</alt>
-        </dialogue>
-        
-    </page>
+        <!-- PAGE 10 -->
+        <page n="10">
+            <panel p="1">
+                <dialogue speaker="Debbie">Did you take care of that dragon?</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Omniman">
+                    Yeah, once I found out who was controlling the thing, there wasn't much to it.
+                    The hard part was keeping the civilians safe while I figured out who was behind it all.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Debbie">
+                    Your publisher called. He wanted to check and see how the next book was coming along.
+                    I told him you were on one of your research trips.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Omniman">
+                    I guess I'll take a day off this weekend and write a book for them.
+                    I'll have to pick up a couple spare keyboards. I hope the Guardians of the Globe can cover for me.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Debbie">
+                    So... how was <bold>your</bold> day, Mark?
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">Fine. I think I'm finally getting superpowers.</dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Debbie">That's nice. Can you pass the potatoes?</dialogue>
+            </panel>
+        </page>
 
-    <page n="12">
-        <dialogue who="titan">Boy, we really screwed that one up!</dialogue>
-        <dialogue who="grunt_1">
-            <alt type="bold">We?</alt>
-        </dialogue>
-        <dialogue who="titan">Oh, so it's my fault the cops showed up so quick?</dialogue>
-        <dialogue who="grunt_1">It was a diamond heist! We <alt type="bold">knew</alt> there would
-            be cops there! Why do you think we brought you along?!</dialogue>
-        <dialogue who="grunt_2">You were there to take care of the cops so we could calmly make our
-            getaway.</dialogue>
-        <dialogue who="grunt_2">You weren't supposed to run with us, you idiot!</dialogue>
-        <dialogue who="titan">Just because bullets bounce off me doesn't mean they feel like back
-            rubs! There were at least six cops back there ready to open fire!</dialogue>
-        <dialogue who="titan">Besides... they won't catch us.</dialogue>
-        <dialogue who="grunt_2">Whatever, just get us over that fence.</dialogue>
-       
-    </page>
-    
-    <page n="13">
-        <sound type="effect">POW!</sound>
-        <sound type="effect">THOOM</sound>
-        <sound type="effect">KRAK!</sound>
-        <dialogue who="titan">Who the hell are you?</dialogue>
-        <dialogue who="titan">Are you trying to stop us or rob us?</dialogue>
-        <sound type="effect">THOOM!</sound>
-        
-    </page>
-    
-    <page num="14">
-        <dialogue who="MG">Sorry about that... I guess the outfit could be a bit misleading. I'm sure my intentions are clear, now.</dialogue>
-    </page>
-       
-       </comic>
+        <!-- PAGE 11 -->
+        <page n="11">
+            <panel p="1">
+                <dialogue speaker="Mark">Okay...</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">
+                    ...Dad says it's just a reflex... So if I <bold>can</bold> fly...
+                    It should just happen when I jump off.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">
+                    As long as I have my dad's invulnerability, this shouldn't even hurt if I hit the ground.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">
+                    ...But if I can't fly yet... Then it's possible that I'm not invulnerable yet...
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Mark">Oh... What the heck!</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark"><bold>Whoa!</bold></dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Mark"><bold>Too cool!</bold></dialogue>
+            </panel>
+        </page>
 
+        <!-- PAGE 12 -->
+        <page n="12">
+            <panel p="1">
+                <dialogue speaker="Titan">Boy, we really screwed that one up!</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Thug1"><bold>We?</bold></dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Titan">
+                    Oh, so it's my fault the cops showed up so quick?
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Thug1">
+                    It was a diamond heist! We <bold>knew</bold> there would be cops there!
+                    Why do you think we brought you along?!
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Thug2">
+                    You were there to take care of the cops so we could calmly make our getaway.
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Thug2">
+                    You weren't supposed to run with us, you idiot!
+                </dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Titan">
+                    Just because bullets bounce off me doesn't mean they feel like back rubs!
+                    There were at least six cops back there ready to open fire!
+                </dialogue>
+            </panel>
+            <panel p="8">
+                <dialogue speaker="Titan">
+                    Besides... they won't catch us.
+                </dialogue>
+            </panel>
+            <panel p="9">
+                <dialogue speaker="Thug2">
+                    Whatever, just get us over that fence.
+                </dialogue>
+            </panel>
+        </page>
+
+        <!-- PAGE 13 -->
+        <page n="13">
+            <panel p="1">
+                <dialogue speaker="SoundEffect">POW!</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="SoundEffect">THOOM</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="SoundEffect">KRAK!</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Titan">Who the hell are you?</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Titan">
+                    Are you trying to stop us or rob us?
+                </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="SoundEffect">THOOM!</dialogue>
+            </panel>
+        </page>
+
+        <!-- PAGE 14 (Unified) -->
+        <page n="14">
+
+            <panel p="1">
+                <dialogue speaker="Mark">
+                    Sorry about that... I guess the outfit could be a bit misleading.
+                    I'm sure my intentions are clear, now.
+                </dialogue>
+            </panel>
+
+            <panel p="2">
+                <dialogue speaker="Omniman">
+                    What in God's name are you wearing? And isn't it a bit early to be doing this?
+                    You've had your powers for what... a week?
+                </dialogue>
+            </panel>
+
+            <panel p="3">
+                <dialogue speaker="Mark">
+                    <bold>Two</bold> weeks, actually. I'm still getting the hang of it.
+                    I've been wearing this when I practice flying so people won't recognize me.
+                    I spotted these guys and just couldn't let them get away.
+                </dialogue>
+            </panel>
+
+            <panel p="4">
+                <dialogue speaker="Omniman">
+                    Well, I can't have you looking <bold>that</bold> ridiculous.
+                    It sounds like the police are here to pick up these sleeping beauties, so come on,
+                </dialogue>
+            </panel>
+
+            <panel p="5">
+                <dialogue speaker="Omniman">
+                    I'm going to introduce you to a guy that can help you out.
+                </dialogue>
+            </panel>
+
+        </page>
+
+        <!-- PAGE 15 -->
+        <page n="15">
+
+            <panel p="1">
+                <dialogue speaker="Caption">
+                    Prom dresses by day, nuclear powered suits of armor by night...
+                </dialogue>
+            </panel>
+
+            <panel p="2">
+                <dialogue speaker="Nuolzot">
+                    ...with your standard spandex number thrown in every now and then for good measure.
+                    I've had this secret workshop here forever.
+                </dialogue>
+                <dialogue speaker="Omniman">
+                    Well... how does it feel?
+                </dialogue>
+            </panel>
+
+            <panel p="3">
+                <dialogue speaker="Mark">
+                    I don't know about this orange and yellow. I mean, it sings...
+                    But I don't think it's the tune we were looking for.
+                    And what's with all these weird disk things?
+                </dialogue>
+            </panel>
+
+            <panel p="4">
+                <dialogue speaker="Nuolzot">
+                    They're solar batteries. I designed that costume back when I was under the
+                    impression that you and your dad's powers were solar based.
+                </dialogue>
+            </panel>
+
+            <panel p="5">
+                <dialogue speaker="Omniman">
+                    It's a common mistake, don't worry about it.
+                </dialogue>
+            </panel>
+
+            <panel p="6">
+                <dialogue speaker="Omniman">
+                    <bold>Crap</bold>, Gridlock is tearing up the east side bridge!
+                    I've got to go!
+                </dialogue>
+            </panel>
+
+            <panel p="7">
+                <dialogue speaker="Nuolzot">
+                    Use the north--!
+                </dialogue>
+                <dialogue speaker="SoundEffect">WHOOOOOOSH!</dialogue>
+            </panel>
+
+        </page>
+
+    </comic>
 </xml>
