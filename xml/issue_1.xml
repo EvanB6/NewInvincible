@@ -372,7 +372,7 @@
             </panel>
 
             <panel p="2">
-                <dialogue speaker="Nuolzot">
+                <dialogue speaker="Art">
                     ...with your standard spandex number thrown in every now and then for good measure.
                     I've had this secret workshop here forever.
                 </dialogue>
@@ -390,7 +390,7 @@
             </panel>
 
             <panel p="4">
-                <dialogue speaker="Nuolzot">
+                <dialogue speaker="Art">
                     They're solar batteries. I designed that costume back when I was under the
                     impression that you and your dad's powers were solar based.
                 </dialogue>
@@ -410,7 +410,7 @@
             </panel>
 
             <panel p="7">
-                <dialogue speaker="Nuolzot">
+                <dialogue speaker="Art">
                     Use the north--!
                 </dialogue>
                 <dialogue speaker="SoundEffect">WHOOOOOOSH!</dialogue>
