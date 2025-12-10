@@ -118,9 +118,7 @@
             </panel>
         </page>
         <page n="6">
-            <panel p="1">
-                <dialogue speaker=""/>
-            </panel>
+            
             <panel p="2">
                 <dialogue speaker="Mark">Mom? What are you still doing up? </dialogue>
             </panel>
@@ -278,9 +276,7 @@
             </panel>
         </page>
         <page n="12">
-            <panel p="1">
-                <dialogue speaker="none"/>
-            </panel>
+            
             <panel p="2">
                 <dialogue speaker="Mark">...</dialogue>
             </panel>
@@ -306,9 +302,7 @@
                     ON ALL EMPLOYEES OF YOUR HIGH SCHOOL. TEACHERS, CUSTODIANS, BUS DRIVERS,
                     EVERYONE, AND I-- Holdon.</dialogue>
             </panel>
-            <panel p="2">
-                <dialogue speaker="none"/>
-            </panel>
+            
             <panel p="3">
                 <dialogue speaker="Mark">AS I WAS SAYING, I WAS CHECKING THE BACKGROUND, АМР
                     EMPLOYMENT HISTORIES ON THE EMPLOYEES OF YOUR SCHOOL...</dialogue>
@@ -513,7 +507,7 @@
             </panel>
             <panel p="4"/>
             <panel p="5">
-                <dialogue speaker="omni-man"> I need to shave... </dialogue>
+                <dialogue speaker="Omniman"> I need to shave... </dialogue>
             </panel>
             <panel p="6"/>
             <panel p="7"/>
@@ -527,13 +521,13 @@
                 <dialogue speaker="Debbie">So...</dialogue>
             </panel>
             <panel p="4">
-                <dialogue speaker="debbie">...Anything interesting happen to either of you
+                <dialogue speaker="Debbie">...Anything interesting happen to either of you
                     today?</dialogue>
             </panel>
         </page>
         <page n="24">
             <panel p="1">
-                <dialogue speaker="">I FOUND OUT ONE OF MY TEACHERS WAS TURNING MY CLASSMATES INTO
+                <dialogue speaker="Mark">I FOUND OUT ONE OF MY TEACHERS WAS TURNING MY CLASSMATES INTO
                     ORGANIC <bold>BOMBS</bold> IN ORDER TO TAKE REVENGE ON KIDS <bold>HE</bold> FELT
                     WERE LIKE THE ONES WHO <bold>LIKE</bold> HIS SON TO COMMIT <bold>SUICIDE</bold>.
                     APPARENTLY HE TURNED <bold>HIMSELF</bold> INTO A BOMB ALSO, AND TRIED TO KILL ME
@@ -541,7 +535,7 @@
                     WOULDN’T HURT ANYONE. </dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker="omni-man"> I SPENT THE LAST <bold>EIGHT</bold> MONTHS ENSLAVED BY
+                <dialogue speaker="Omniman"> I SPENT THE LAST <bold>EIGHT</bold> MONTHS ENSLAVED BY
                     AN ARMY FROM AN ALTERNATE DIMENSION, ALTHOUGH IT SEEMS MUCH <bold>LESS</bold>
                     TIME HAS PASSED HERE. ABOUT A WEEK AGO I LED A REVOLT AGAINST MY CAPTORS AND
                     REGAINED CONTROL OF MY POWERS. TODAY, A TEAM OF SCIENTISTS FROM THE REBELLION
