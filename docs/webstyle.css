@@ -45,13 +45,35 @@ a:active {
     font-style: normal;
 }
 ol {list-style-type: lower-alpha;
-padding: 5em;
+padding: 5em; }
     
-    .image {
-     background: black;   
-    }
-    
-img  {
-outline: black; 
+   
+
+span.info {
+  display: inline-block;
+  background: black;
+  border: 1px solid #fed7aa;
+  color: #FFE948;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 14.4px;
+  margin-bottom: 10px;
 }
 
+span.speaker {
+  font-weight: 700;
+  color: #FFE948;
+  margin-right: 6px;
+}
+
+.metadata,
+.page,
+.panel {
+  text-align: left;
+}
+.panel {
+  line-height: 1.7;   
+}
+section.page {
+  margin-bottom: 48px;   
+}
