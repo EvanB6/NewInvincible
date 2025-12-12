@@ -207,6 +207,297 @@
                 <dialogue speaker="Mark">I THINK I COULD MANAGE THAT.</dialogue>
             </panel>
         </page>
+        <page n="59">
+            <panel p="1">
+                <dialogue speaker="Nolan">HEY MARK. WHAT ARE YOU DOING?</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">I'M JUSTGETTING READY TО GO OUT ON PATROL. I FIGURED I'D
+                    TAKE A STROLL AROUND THE CITY BY AIR AND MAKE SURE EVERYTHING'S ON THE UP AND
+                    UP. </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">YOU MND IF I TAG ALONG? I THINK WE'RE ABOUT DUE FORA
+                    TEAM-UP.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">THAT WOULD BE GREAT!</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Nolan">HEH. YOU SAID "TEAM-UP."</dialogue>
+            </panel>
+        </page>
+        <page n="60">
+            <panel p="1">
+                <dialogue speaker="Nolan">YOU KNOW, FROM ALL INDICATIONS YOU'RE NOT DOING TOO BAD.
+                    ESPECIALLY FOR BEING AS NEW TO THIS AS YOU ARE.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">THANKS, DAD. I--HUH?</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">SORRY ABOUT THAT. THERE WASSA CHEMICAL FIRE OVER AT THE
+                    UNIVERSITY'S SCIENCE LAB.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Nolan">ANYWAY, AS I WAS SAYING... YOU'VE DONE A LOT OF GOOD THESE
+                    PAST THREE MONTHS. TO BE QUITE HONEST, I'M IMPRESSED. </dialogue>
+            </panel>
+        </page>
+        <page n="61">
+            <panel p="1">
+                <dialogue speaker="Mark">THAT REALLY MEANS A LOT COMING FROM YOU, DAD.
+                    THANKS.</dialogue>
+                <dialogue speaker="Nolan">DON'T THANK ME, SON. JUST KEEP UP THE GOOD WORK.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">LOOK OUT DAD, THAT DAM IS ABOUT TO-- </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">SHOW OFF.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Nolan">YOU WANT TO GRAB SOME LUNCH?</dialogue>
+                <dialogue speaker="Mark">SURE.</dialogue>
+            </panel>
+        </page>
+        <page n="62">
+            <panel p="1">
+                <dialogue speaker="Mark">SO... IS THAT GOING TO COME NATURALLY OR AM I GOING TO HAVE
+                    TO PRACTICE? I MEAN, I COULD BARELY KEEP UP WITH YOU ON THE WAY HERE! </dialogue>
+                <dialogue speaker="Nolan">AS YOU GET OLDER AND YOUR POWERS INCREASE, YOU SHOULD BE
+                    ABLE TO FLY FASTER. TO BE HONEST, I DON'T KNOW HOW ALL THIS IS GOING TO WORK.
+                    YOU MAY NEVER GET AS POWERFUL AS ME. </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">I GUESS I COULDN'T COMPLAIN IF THEY NEVER INCREASED AT
+                    ALL.</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">YEAH, AND ANOTHER THING IS THAT YOU DON'T EVEN REALLY KNOW
+                    HOW TO USE THE POWERS YOU HAVE, YET. JUST WAIT UNTIL-- HOLD ON... </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Nolan">OH, JEEZ!! I'LL BE BACK IN A MINUTE!</dialogue>
+            </panel>
+            <panel p="5">
+                <action>Mark is sitting and eating.</action>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Nolan">I GOING TO NEED YOUR HELP ON THIS ONE </dialogue>
+            </panel>
+            <panel p="7">
+                <action>Mark and Nolan have flown away.</action>
+            </panel>
+        </page>
+        <page n="63">
+            <panel p="1">
+                <dialogue speaker="Mark">WHOA!</dialogue>
+            </panel>
+        </page>
+        <page n="64">
+            <panel p="1">
+                <dialogue speaker="Nolan">NO TIME FOR THAT, SON! LET'S HELP THESE BOYS OUT!
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">I'LL DO WHAT I CAN!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">THAT'S THE SPIRIT!</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">SURE ARE A LOT OF THESE GUYS!</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Nolan">NO KIDDING! THERE SEEMS TO BE AN ENDLESS STREAM OF THEM
+                    COMING OUT OF THAT PORTAL.</dialogue>
+            </panel>
+        </page>
+        <page n="65">
+            <panel p="1">
+                <dialogue speaker="Mark">WELL, YOU'RE OBVIOUSLY NOT FROM AROUND HERE. </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">LET ME HELP YOU FIND YOUR WAY HOME.</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">I THINK WE'RE DEALING WITH SOME SORT OF OTHER-DIMENSIONAL
+                    ARMY HERE. I DON'T RECOGNIZE THESE THINGS AT ALL. WHICH MEANS THEY COULD HAVE AN
+                    ENTIRE UNIVERSE WORTH OF SOLDIERS READY TO SPILL OUT OF THAT THING! WE'VE GOT TO
+                    GET THEM BACK IN THAT PORTAL AND FIGURE OUT A WAY TO CLOSE THAT THING
+                    FAST!</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">ANY IDEAS?</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Nolan">NOT YET... NO.</dialogue>
+            </panel>
+        </page>
+        <page n="66">
+            <panel p="1">
+                <dialogue speaker="Mark">WAIT A SECOND...</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">...IS IT JUST ME, OR ARE THESE GUYS GETTING SLOWER?
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">NOW THAT YOu MENTION IT THIS SEEMS TO BE GETTING EASIER.
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">JEEZ, DAD! THIS GUY IS AGING BY THE MINUTE!</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Nolan">TIME MUST WORK DIFFERENTLY IN THEIR DIMENSION. THEY'RE
+                    STARTING TO DROP LIKE FLIES!</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">YEAH, AND IF THERE WEREN'T SO MANY OF THEM... WE'D BE
+                    WINNING THIS BATTLE! </dialogue>
+            </panel>
+        </page>
+        <page n="67">
+            <panel p="1">
+                <dialogue speaker="Nolan">WE'RE NOT DEFEATED YET! </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Nolan">RAARGH!!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">GET OFF MY PLANET!</dialogue>
+            </panel>
+        </page>
+        <page n="68">
+            <panel p="1">
+                <action>The fight is now over.</action>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mark">DAD?</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">IT'S OKAY DAD. THEY'RE LEAVING. IT'S OVER.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Nolan">...YOU'RE RIGHT. LET'S GO.</dialogue>
+            </panel>
+        </page>
+        <page n="69">
+            <panel p="1">
+                <dialogue speaker="Mark">SO... DOES THAT HAPPEN OFTEN? </dialogue>
+                <dialogue speaker="Nolan">THANKFULLY, NO. THAT WAS NOT A PLEASANT EXPERIENCE.
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Nolan">IF ANOTHER COUPLE OF SECONDS HAD GONE BY BEFORE WE
+                    DISCOVERED THEIR ACCELERATED AGING I WOULD HAVE CALLED IN THE GUARDIANS OF THE
+                    GLOBE, OR MEGAFORCE... OR BOTH. </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">WOW.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">I GUESS I DIDN'T REALLY NOTICE HOW BAD IT GOT. </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Nolan">WELL... WE MADE IT THROUGH. DON'T DWELL ON IT. LET'S JUST
+                    WORRY ABOUT GETTING HOME WITHOUT RUNNING INTO ANY MORE TROUBLE. WE'RE ALMOST
+                    THERE, AND I'LL BET YOUR MOM'S ALMOST DONE WITH--</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Nolan">LAKESIDE MALL. TRY TO KEEP UP.</dialogue>
+            </panel>
+        </page>
+        <page n="70">
+            <panel p="1">
+                <dialogue speaker="Mark">CRAP. WHAT IS IT?</dialogue>
+                <dialogue speaker="Nolan">NO TIME.</dialogue>
+            </panel>
+            <panel p="2">
+                <action>Mark is flying.</action>
+            </panel>
+            <panel p="3">
+                <action>Nolan is ahead of Mark</action>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">CRAP!</dialogue>
+            </panel>
+            <panel p="5">
+                <action>Nolan is even further ahead</action>
+            </panel>
+            <panel p="6">
+                <action>Mark is headed towards the ground</action>
+            </panel>
+        </page>
+        <page n="71">
+            <panel p="1">
+                <dialogue speaker="Mark">WHAT'S GOING ON?</dialogue>
+                <dialogue speaker="Nolan">WAKE UP! WAKE UP!! WHAT? WH--WHAАТ ARE YOU
+                    DOING?</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Nolan">QUICKLY! TELL ME WHO DID THIS TO YOU!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Rick">D--DID WHAT?</dialogue>
+            </panel>
+            <panel p="4">
+                <action>Nolan looks scared or confused.</action>
+            </panel>
+            <panel p="5">
+                <action>Nolan throws Rick through the roof.</action>
+            </panel>
+            <panel p="6">
+                <action>Rick explodes.</action>
+            </panel>
+        </page>
+        <page n="72">
+            <panel p="1">
+                <dialogue speaker="Mark">THAT WAS ONE OF THE MISSING STUDENTS FROM MY SCHOOL!
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Nolan">BUT THAT WOULD MEAN--</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Nolan">HUH?</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mark">DAD!!</dialogue>
+            </panel>
+            <panel p="5">
+                <action>Mark is staring off into space.</action>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Mark">DANG IT.</dialogue>
+            </panel>
+            <panel p="7">
+                <action>Mark flys away.</action>
+            </panel>
+        </page>
+        <page n="73">
+            <panel p="1">
+                <action>Mark gets home.</action>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Debbie">I GUESS I CAN LOOK FORWARD TO YOU BOTH BEING LATE FROM
+                    NOM ON...</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mark">ACTUALLY... DAD WAS SUCKED INTО А PORTAL ABOUT FIFTEEN
+                    MINUTES AGO, I DON'T THINK HE'LL BE HOME TONIGHT. IT WAS SOME ALIENS WE FOUGHT
+                    EARLIER TODAY... I'M SURE HE'S FINE.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Debbie">...</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Debbie">WELL, THAT'S MORE PORK CHOPS FOR US.</dialogue>
+            </panel>
+        </page>
     </comic>
 
 
