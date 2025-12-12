@@ -16,7 +16,7 @@
             <body>
              
                 <div class="navbar"><nav>
-                        <a href="index.html">Home</a> | <a href="">Issue 1</a> | <a href="">Issue 2</a> | <a href="">Issue 4</a> | <a
+                        <a href="index.html">Home</a> | <a href="">Issue 1</a> | <a href="">Issue 2</a> | <a href="issue_3.html">Issue 3</a> |<a href="">Issue 4</a> | <a
                             href="char.html">Characters</a>
                 </nav></div>
                 <h1>Invincible – Issue 1-4 Characters</h1>
