@@ -98,7 +98,9 @@ section.table{
   margin-right: auto;
 }
 img {
- 
+ max-width: 100%;
+  height: auto;
+  display: block;
   margin: 20px auto;  
   outline: 5px solid black;
 
@@ -113,15 +115,24 @@ img {
   margin-left: auto;
   margin-right: auto;
   display: flex;
-  
+  margin-bottom: 14px;
+  line-height: 1.6;
   gap: 50px;
 }
 a.linkcolor{
-    color:black;
+    color: #FCEE22;
 }
 
 .site-footer {
   background-color: black;
   font-size: 14px;
     padding-bottom: 16px
+}
+table {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid black;
+  border-radius: 16px;
+  padding: 18px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+  overflow-x: auto; 
 }
