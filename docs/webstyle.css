@@ -98,12 +98,19 @@ section.table{
   margin-right: auto;
 }
 img {
- max-width: 100%;
-  height: auto;
-  display: block;
+ 
   margin: 20px auto;  
-  outline: 5px solid black;
 
+}
+.image img {
+  width: 300px;        
+  height: auto;        
+  display: block;
+  outline: 5px solid black;
+  transition: transform 0.25s ease;
+}
+.image img:hover {
+  transform: scale(1.1);
 }
 .cover img {
   width: 600px;
